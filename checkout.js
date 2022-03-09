@@ -7,3 +7,4 @@ const foobar = () => {
 };
 
 const name = 'John';
+const lastname = 'Doe';
