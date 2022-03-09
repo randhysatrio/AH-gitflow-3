@@ -6,5 +6,9 @@ const foobar = () => {
   console.log(foo + bar);
 };
 
-const name = 'John';
+const firstname = 'John';
 const lastname = 'Doe';
+
+const meinname = () => {
+  return firstname + lastname;
+};
